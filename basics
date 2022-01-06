@@ -1,0 +1,5 @@
+For building the app for weather forcast
+we gonna use the API called "OpenWeather API"
+
+we gonna use Pillow library of the python
+to print text no the image using python
